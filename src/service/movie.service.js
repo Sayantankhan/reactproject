@@ -1,6 +1,6 @@
 import { async } from "q";
 
-const MOVIE_DB_API_KEY = '5f644cf396328ffa03b837fce55fbcf4';
+const MOVIE_DB_API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 const MOVIE_DB_BASE_URL = 'https://api.themoviedb.org/3';
 
 const GET_ALL_TOP_RATED_MOVIES = '/movie/top_rated';
